@@ -15,6 +15,24 @@
 5. Выводим значения Far и Kel в консоль.<br>
 6. Конец.<br>
 
+<h2>Код программы</h2>
+#include <stdio.h><br>
+#include <locale.h><br>
+#define K 273.15<br>
+<br>
+void main()<br>
+{<br>
+	setlocale(LC_ALL, "RUS");<br>
+	puts("Вариант 14\v");<br>
+	float C, Far, Kel;<br>
+	puts("введите число градусов по Цельсию");<br>
+	scanf("%f", &C);<br>
+	Far = (C * (9 / 5)) + 32;<br>
+	Kel = C + K;<br>
+	printf("число градусов по Фаренгейту - %.2f\n", Far);<br>
+	printf("число градусов в Кельвинах - %.2f", Kel);<br>
+}
+
 <h2>Схема</h2>
 <img width="237" height="650" alt="image" src="https://github.com/user-attachments/assets/cd0a85d7-3525-4bda-80f7-fbd8e6b4e2f7" />
 
