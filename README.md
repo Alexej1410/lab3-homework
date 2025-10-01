@@ -21,7 +21,7 @@
 
 <h2>Код программы</h2>
 #include <stdio.h><br>
-#include <locale.h>
+#include <locsle.h><br>
 #define K 273.15<br>
 <br>
 void main()<br>
