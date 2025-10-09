@@ -40,7 +40,7 @@ void main()<br>
 }
 
 <h2>Схема</h2>
-<img width="237" height="650" alt="image" src="https://github.com/user-attachments/assets/cd0a85d7-3525-4bda-80f7-fbd8e6b4e2f7" />
+<img width="199" height="491" alt="image" src="https://github.com/user-attachments/assets/a44bfba5-0560-4501-a8d8-a028df1fea30" />
 
 <h2>Консоль</h2>
 <img width="563" height="197" alt="image" src="https://github.com/user-attachments/assets/d0ab6996-254e-4185-90e3-a743047ecb45" />
